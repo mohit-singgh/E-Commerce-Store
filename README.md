@@ -1,6 +1,6 @@
 <h1 align="center">E-Commerce Store 🛒</h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+![Demo App](/E-Commerce Store/frontend/public/screenshot-for-readme.png)
 
 
 About This Course:

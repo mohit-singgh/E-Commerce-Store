@@ -3,7 +3,7 @@
 ![Demo App](./E-Commerce-Store/frontend/public/screenshot-for-readme.png)
 
 
-About This Course:
+About This project:
 
 -   🚀 Project Setup
 -   🗄️ MongoDB & Redis Integration
